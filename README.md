@@ -1,4 +1,4 @@
-###Howdy, my name is Lance Jodie Salvanera Abuan! 👋
+Howdy, my name is Lance Jodie Salvanera Abuan! 👋
 
 <!--
 **LanceAbuan/lanceabuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
