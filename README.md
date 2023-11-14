@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🎓 Undergraduate at Texas A&M, class of '23
+- 🎓 Texas A&M Alumni, class of '22
 	- B.S. Computer Science
 	- Minor in Mathematics
 - 🌱 I’m currently focused on learning C++, Java, and Python, with a side interest in Web Development.
